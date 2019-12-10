@@ -14,13 +14,6 @@ nav,
 main,
 article,
 section,
-aside,
-footer {
-	border-radius: 0px 0.5em 0.5em;
-	border: 1px solid;
-	padding: 10px;
-	margin: 10px;
-}
 
 header {
 	background: #F1F3F4;
@@ -43,16 +36,5 @@ article {
 	grid-row: 2 / 4;
 }
 
-aside {
-	background: #ebf5d7;
-	border-color: #8db243;
-	grid-column: 3;
-}
 
-footer {
-	background: #e4ebf2;
-	border-color: #8a9da8;
-	grid-column: 1 / span 3;
-	grid-row: 4;
-}
 
