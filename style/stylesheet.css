@@ -17,14 +17,14 @@ article,
 section,
 
 header { 
-	background: #EFB27A;
+	background: #B4D6EF;
 	border-color: #d5d5d5;
 	grid-column: 1 / span 3;
 	grid-row: 1;
 }
 
 nav { 
-	background: #FDF97F;
+	background: #EBBDC0;
 	border-color: #e7c157;
 	grid-column: 1;
 	grid-row: 2 / 4;
