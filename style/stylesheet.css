@@ -1,4 +1,4 @@
-<body> 
+body {
 	margin: 10px auto;
 	max-width: 60em;
 	font-family: sans-serif;
@@ -8,7 +8,7 @@
 	grid-template-rows: 150px 1fr 1fr 100px;
 	min-height: 100vh;
 	background-color: #A09F9D;
-</body>
+}
 
 header,
 nav,
@@ -16,26 +16,26 @@ main,
 article,
 section,
 
-<header> 
+header { 
 	background: #EFB27A;
 	border-color: #d5d5d5;
 	grid-column: 1 / span 3;
 	grid-row: 1;
-</header>
+}
 
-<nav> 
+nav { 
 	background: #fffbf0;
 	border-color: #e7c157;
 	grid-column: 1;
 	grid-row: 2 / 4;
-</nav>
+}
 
-<article> 
+article { 
 	background: #FDFCFC;
 	border-color: #FDFCFC;
 	grid-column: 2;
 	grid-row: 2 / 4;
-</article>
+}
 
 
 
