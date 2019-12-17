@@ -9,6 +9,7 @@ body {
 	grid-template-rows: 150px 1fr 1fr 100px;
 	min-height: 100vh;
 	background-color: #A09F9D;
+	row-gap: 25px;
 }
 
 header,
