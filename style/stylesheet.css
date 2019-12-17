@@ -23,7 +23,8 @@ header {
 	grid-row: 1;
 }
 
-nav { 
+nav { 	
+	margin-top: 10px auto;
 	background: #B4D6EF;
 	border-color: #e7c157;
 	grid-column: 1;
