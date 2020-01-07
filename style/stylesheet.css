@@ -25,6 +25,13 @@ header {
 	grid-row: 1;
 }
 
+article { 
+	background: #FDFCFC;
+	border-color: #FDFCFC;
+	grid-column: 2;
+	grid-row: 2 / 4;
+}
+
 nav { 	
 	background: #B4D6EF;
 	border-color: #e7c157;
@@ -32,12 +39,6 @@ nav {
 	grid-row: 2 / 4;
 }
 
-article { 
-	background: #FDFCFC;
-	border-color: #FDFCFC;
-	grid-column: 2;
-	grid-row: 2 / 4;
-}
 
 
 
