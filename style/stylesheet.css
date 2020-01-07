@@ -2,7 +2,7 @@ body {
 	
 	margin: 10px auto;
 	max-width: 60em;
-	font-family: sans-serif;
+	font-family: Public Sans, sans-serif;
 	color: #333333;
 	display: grid;
 	grid-template-columns: 1fr 3fr 1fr;
@@ -10,6 +10,7 @@ body {
 	min-height: 100vh;
 	background-color: #A09F9D;
 	gap: 10px 10px;
+	text-align: center;
 }
 
 header,
@@ -18,6 +19,12 @@ main,
 article,
 section,
 
+header { 
+	background: #B4D6EF;
+	border-color: #d5d5d5;
+	grid-column: 1 / span 3;
+	grid-row: 1;
+}
 
 article { 
 	background: #FDFCFC;
@@ -31,14 +38,6 @@ nav {
 	border-color: #e7c157;
 	grid-column: 1;
 	grid-row: 2 / 4;
-}
-
-header { 
-	background: #B4D6EF;
-	border-color: #d5d5d5;
-	grid-column: 1 / span 3;
-	grid-row: 1;
-	text-align: center;
 }
 
 
