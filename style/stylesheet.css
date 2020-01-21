@@ -19,6 +19,7 @@ article,
 section,
 
 article { 
+	width: 800px
 	background: #FDFCFC;
 	border-color: #FDFCFC;
 	grid-column: 2;
@@ -26,6 +27,7 @@ article {
 }
 
 nav { 	
+	widht: 200px
 	background: #B4D6EF;
 	border-color: #e7c157;
 	grid-column: 1;
