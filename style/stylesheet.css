@@ -29,7 +29,7 @@ nav {
 	background: #B4D6EF;
 	border-color: #e7c157;
 	grid-column: 1;
-	grid-row: 2 / 4;
+	grid-row: 2 / 3;
 	text-align: center;
 }
 
@@ -40,18 +40,14 @@ header {
 	grid-row: 1;
 	text-align: center;
 }
-
-side {
+	
+footer {
+	
 	background: #B4D6EF;
 	border-color: #d5d5d5;
-	grid-column: 3;
-	grid-row: 2 / 4;
-	text-align: center;
-	
-	
-	
-	
-	]
+	grid-column: 1 / span 3;
+	grid-row: 4;	
+	}
 
 
 
