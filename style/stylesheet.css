@@ -5,7 +5,7 @@ body {
 	font-family: sans-serif;
 	color: #333333;
 	display: grid;
-	grid-template-columns: 1fr 3fr 1fr 1Fr;
+	grid-template-columns: 1fr 3fr 1fr;
 	grid-template-rows: 150px 1fr 1fr 100px;
 	min-height: 100vh;
 	background-color: #A09F9D;
