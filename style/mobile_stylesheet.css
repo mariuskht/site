@@ -8,7 +8,7 @@ article {
 nav { 	
 	background: #B4D6EF;
 	border-color: #e7c157;
-	grid-column: 0.25;
+	grid-column: 1;
 	grid-row: 2 / 4;
 	text-align: center;
 }
