@@ -4,8 +4,8 @@ body {
 	font-family: sans-serif;
 	color: #333333;
 	display: grid;
-	grid-template-columns: 1fr 3fr 1fr;
-	grid-template-rows: 150px 1fr 1fr 100px;
+	grid-template-columns: 500px 800px 500px;
+	grid-template-rows: 150px 1Fr 1Fr 150px;
 	min-height: 100vh;
 	background-color: #A09F9D;
 	gap: 10px 10px;
