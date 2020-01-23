@@ -4,8 +4,8 @@ body {
 	font-family: sans-serif;
 	color: #333333;
 	display: grid;
-	grid-template-columns: 1Fr 3Fr 1Fr;
-	grid-template-rows: 70px 700px 700px 300px;
+	grid-template-columns: 500px 1400px;
+	grid-template-rows: 70px 500px 500px 200px;
 	min-height: 100vh;
 	background-color: #A09F9D;
 	gap: 10px 10px;
@@ -20,7 +20,7 @@ section,
 article { 
 	background: #FDFCFC;
 	border-color: #FDFCFC;
-	grid-column: 2 / 3;
+	grid-column: 2;
 	grid-row: 2 / 3;
 }
 
@@ -35,7 +35,7 @@ nav {
 header { 
 	background: #B4D6EF;
 	border-color: #d5d5d5;
-	grid-column: 1 / span 3;
+	grid-column: 1 / span 2;
 	grid-row: 1;
 	text-align: center;
 }
@@ -43,7 +43,7 @@ header {
 footer {
 	background: #B4D6EF;
 	border-color: #d5d5d5;
-	grid-column: 1 / span 3;
+	grid-column: 1 / span 2;
 	grid-row: 4;
 }
 
