@@ -4,7 +4,7 @@ body {
 	font-family: sans-serif;
 	color: #333333;
 	display: grid;
-	grid-template-columns: 1fr 3fr 2fr;
+	grid-template-columns: 1fr 3fr 1fr;
 	grid-template-rows: 150px 1fr 1fr 100px;
 	min-height: 100vh;
 	background-color: #A09F9D;
@@ -40,11 +40,11 @@ header {
 	text-align: center;
 }
 
-side {
+footer {
 	background: #B4D6EF;
 	border-color: #d5d5d5;
-	grid-column: 3;
-	grid-row: 2 / 4;
+	grid-column: 1 / span 3;
+	grid-row: 4;
 }
 
 
