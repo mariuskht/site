@@ -4,7 +4,7 @@ body {
 	font-family: sans-serif;
 	color: #333333;
 	display: grid;
-	grid-template-columns: 1fr 2fr 1fr;
+	grid-template-columns: 1fr 3fr 1fr;
 	grid-template-rows: 150px 1fr 1fr 100px;
 	min-height: 100vh;
 	background-color: #A09F9D;
@@ -45,9 +45,6 @@ side {
 	border-color: #d5d5d5;
 	grid-column: 3;
 	grid-row: 2 / 4;
-
-
-
 }
 
 
