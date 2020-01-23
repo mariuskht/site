@@ -21,14 +21,14 @@ article {
 	background: #FDFCFC;
 	border-color: #FDFCFC;
 	grid-column: 2 / span 3;
-	grid-row: 2 / 3;
+	grid-row: 2 / 4;
 }
 
 nav { 	
 	background: #B4D6EF;
 	border-color: #e7c157;
 	grid-column: 1;
-	grid-row: 2 / 3;
+	grid-row: 2 / 4;
 	text-align: center;
 }
 
@@ -40,11 +40,5 @@ header {
 	text-align: center;
 }
 
-footer {
-	background: #B4D6EF;
-	border-color: #d5d5d5;
-	grid-column: 1 / span 3;
-	grid-row: 4;
-}
 
 
