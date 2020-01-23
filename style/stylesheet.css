@@ -21,7 +21,7 @@ section,
 article { 
 	background: #FDFCFC;
 	border-color: #FDFCFC;
-	grid-column: 2;
+	grid-column: 1;
 	grid-row: 2 / 4;
 }
 
