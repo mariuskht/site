@@ -5,7 +5,7 @@ body {
 	color: #333333;
 	display: grid;
 	grid-template-columns: 1Fr 3Fr 1Fr;
-	grid-template-rows: 70px 2Fr 2Fr 300px;
+	grid-template-rows: 70px 700px 700px 300px;
 	min-height: 100vh;
 	background-color: #A09F9D;
 	gap: 10px 10px;
