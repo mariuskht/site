@@ -21,14 +21,14 @@ article {
 	background: #FDFCFC;
 	border-color: #FDFCFC;
 	grid-column: 2;
-	grid-row: 2 / 4;
+	grid-row: 2 / 3;
 }
 
 nav { 	
 	background: #B4D6EF;
 	border-color: #e7c157;
 	grid-column: 1;
-	grid-row: 2 / 4;
+	grid-row: 2 / 3;
 	text-align: center;
 }
 
