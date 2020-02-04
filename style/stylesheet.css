@@ -11,12 +11,6 @@ body {
 	gap: 10px 10px;
 }
 
-header,
-nav,
-main,
-article,
-section,
-
 article { 
 	background: #FDFCFC;
 	border-color: #FDFCFC;
