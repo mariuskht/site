@@ -34,5 +34,13 @@ header {
 	text-align: center;
 }
 
+#navigation {
+    color: #333333;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 8px;
+}
+
 
 
